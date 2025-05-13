@@ -1,0 +1,35 @@
+body{
+    color: aliceblue;
+    background-color: #343433;
+}
+
+#links{
+    list-style-type: none;
+    justify-content: space-around;
+}
+
+#links a{
+    color: black;
+    background-color: aquamarine;
+    
+}
+
+a{
+    color: black;
+    background-color: cadetblue;
+    border-radius: 10px;
+}
+
+table , td{
+    border: solid 2px fuchsia;
+    border-collapse: collapse;
+    padding: 8px; 
+    text-align: center; 
+}
+
+p{
+  line-height: 1px;
+}
+
+
+
