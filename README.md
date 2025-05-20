@@ -6,8 +6,8 @@ css
 Copiar
 Editar
 estrutura-html/
-├── index.html
-├── grade_cabecalhos.html
-├── grade_tabela.html
-├── grade_listas.html
-└── README.md
+|index.html
+|grade_cabecalhos.html
+|grade_tabela.html
+|grade_listas.html
+|README.md
